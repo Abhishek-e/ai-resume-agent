@@ -1,0 +1,20 @@
+Abhishek Mondal
+Data Analyst / Full-Stack Developer
+
+Experience
+- Built Taskly, a self-hosted CRM/project management app (Flask, SQLAlchemy, SQLite/Postgres/MySQL):
+  kanban boards, time tracking, invoicing, a client portal, and role-based access.
+- Built Academy LMS, a full e-learning platform (Flask, PostgreSQL/MySQL, Stripe/Razorpay):
+  course marketplace, quizzes, live classes, instructor dashboards.
+- Built DataLens Analyzer, a client-side Excel/CSV analyzer (HTML/JS): automatic type detection,
+  summary statistics, IQR-based outlier detection, deployed on GitHub Pages.
+- Built a faculty-matching tool (Python): scrapes faculty pages and ranks them against a research
+  profile using cosine similarity over extracted text.
+
+Skills
+Python, Flask, SQL (PostgreSQL, MySQL, SQLite), JavaScript, HTML/CSS, Excel, data cleaning,
+basic statistics, Git/GitHub, Streamlit.
+
+Education
+B.Tech, Computer Science
+
