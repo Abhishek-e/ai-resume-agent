@@ -1,0 +1,15 @@
+Data Analyst — ₹8-10 LPA
+
+We're looking for a Data Analyst who can:
+- Write complex SQL queries against Postgres/MySQL to answer business questions.
+- Build and maintain dashboards (Power BI or Tableau) for weekly business reviews.
+- Clean and analyze data in Excel and Python (pandas).
+- Work with product/PM teams to define metrics and success criteria.
+- Bonus: experience with LLM-based tools (RAG, prompting, evaluation) for internal automation.
+- Bonus: exposure to basic ML/DS techniques (classification, clustering).
+
+Requirements
+- 1-3 years experience with SQL and Excel.
+- Comfortable with Python for data analysis.
+- Strong communication — you'll present findings to non-technical stakeholders.
+
